@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-GerenciadorVeterinariosApplication<gerenciador-veterinarios>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "org.iftm.gerenciadorveterinarios.GerenciadorVeterinariosApplication",
+            "projectName": "gerenciador-veterinarios",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
